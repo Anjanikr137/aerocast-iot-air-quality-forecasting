@@ -1,0 +1,176 @@
+{
+  "station_id": "site_113",
+  "station_name": "Shadipur, Delhi - CPCB",
+  "download_timestamp": "2026-11-09T20:59:29.126136",
+  "batches": [
+    {
+      "period": "2023-01",
+      "start_date": "2023-01-01",
+      "end_date": "2023-01-31",
+      "rows_retrieved": 9392,
+      "truncated": false
+    },
+    {
+      "period": "2023-02",
+      "start_date": "2023-02-01",
+      "end_date": "2023-02-28",
+      "rows_retrieved": 8590,
+      "truncated": false
+    },
+    {
+      "period": "2023-03",
+      "start_date": "2023-03-01",
+      "end_date": "2023-03-31",
+      "rows_retrieved": 9191,
+      "truncated": false
+    },
+    {
+      "period": "2023-04",
+      "start_date": "2023-04-01",
+      "end_date": "2023-04-30",
+      "rows_retrieved": 9019,
+      "truncated": false
+    },
+    {
+      "period": "2023-05",
+      "start_date": "2023-05-01",
+      "end_date": "2023-05-31",
+      "rows_retrieved": 9107,
+      "truncated": false
+    },
+    {
+      "period": "2023-06",
+      "start_date": "2023-06-01",
+      "end_date": "2023-06-30",
+      "rows_retrieved": 9172,
+      "truncated": false
+    },
+    {
+      "period": "2023-07",
+      "start_date": "2023-07-01",
+      "end_date": "2023-07-31",
+      "rows_retrieved": 9219,
+      "truncated": false
+    },
+    {
+      "period": "2023-08",
+      "start_date": "2023-08-01",
+      "end_date": "2023-08-31",
+      "rows_retrieved": 9443,
+      "truncated": false
+    },
+    {
+      "period": "2023-09",
+      "start_date": "2023-09-01",
+      "end_date": "2023-09-30",
+      "rows_retrieved": 9085,
+      "truncated": false
+    },
+    {
+      "period": "2023-10",
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31",
+      "rows_retrieved": 9425,
+      "truncated": false
+    },
+    {
+      "period": "2023-11",
+      "start_date": "2023-11-01",
+      "end_date": "2023-11-30",
+      "rows_retrieved": 9174,
+      "truncated": false
+    },
+    {
+      "period": "2023-12",
+      "start_date": "2023-12-01",
+      "end_date": "2023-12-31",
+      "rows_retrieved": 9528,
+      "truncated": false
+    },
+    {
+      "period": "2024-01",
+      "start_date": "2024-01-01",
+      "end_date": "2024-01-31",
+      "rows_retrieved": 9507,
+      "truncated": false
+    },
+    {
+      "period": "2024-02",
+      "start_date": "2024-02-01",
+      "end_date": "2024-02-29",
+      "rows_retrieved": 8851,
+      "truncated": false
+    },
+    {
+      "period": "2024-03",
+      "start_date": "2024-03-01",
+      "end_date": "2024-03-31",
+      "rows_retrieved": 9484,
+      "truncated": false
+    },
+    {
+      "period": "2024-04",
+      "start_date": "2024-04-01",
+      "end_date": "2024-04-30",
+      "rows_retrieved": 8926,
+      "truncated": false
+    },
+    {
+      "period": "2024-05",
+      "start_date": "2024-05-01",
+      "end_date": "2024-05-31",
+      "rows_retrieved": 9385,
+      "truncated": false
+    },
+    {
+      "period": "2024-06",
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-30",
+      "rows_retrieved": 9053,
+      "truncated": false
+    },
+    {
+      "period": "2024-07",
+      "start_date": "2024-07-01",
+      "end_date": "2024-07-31",
+      "rows_retrieved": 9528,
+      "truncated": false
+    },
+    {
+      "period": "2024-08",
+      "start_date": "2024-08-01",
+      "end_date": "2024-08-31",
+      "rows_retrieved": 9479,
+      "truncated": false
+    },
+    {
+      "period": "2024-09",
+      "start_date": "2024-09-01",
+      "end_date": "2024-09-30",
+      "rows_retrieved": 9209,
+      "truncated": false
+    },
+    {
+      "period": "2024-10",
+      "start_date": "2024-10-01",
+      "end_date": "2024-10-31",
+      "rows_retrieved": 9438,
+      "truncated": false
+    },
+    {
+      "period": "2024-11",
+      "start_date": "2024-11-01",
+      "end_date": "2024-11-30",
+      "rows_retrieved": 9163,
+      "truncated": false
+    },
+    {
+      "period": "2024-12",
+      "start_date": "2024-12-01",
+      "end_date": "2024-12-31",
+      "rows_retrieved": 9447,
+      "truncated": false
+    }
+  ],
+  "total_records": 221815
+}

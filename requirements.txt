@@ -1,0 +1,30 @@
+# AeroCast — Explainable IoT Air Quality Forecasting System
+# Core Python Dependencies (Tested on Python 3.13)
+
+# Data processing & numeric operations
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+
+# Machine Learning & Deep Learning
+scikit-learn==1.9.1
+xgboost==3.4.1
+tensorflow==2.21.0
+keras==3.15.1
+joblib==1.6.0
+
+# Visualization & Reporting
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Data ingestion & API communication
+requests==2.34.2
+urllib3==2.8.0
+
+# Notebook & Kernel Support
+ipykernel==7.4.0
+ipython==9.18.1
+nbformat==5.11.1
+nbclient==0.11.0
+jupyter-client==8.10.0
+

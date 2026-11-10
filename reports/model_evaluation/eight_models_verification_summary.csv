@@ -1,0 +1,5 @@
+Model Family,AQI Model File,Pollutant Model File,Predicted Sample AQI,Predicted Sample PM2.5,Verification Status
+Linear Regression,models/linear_regression/aqi_model.joblib,models/linear_regression/pollutant_model.joblib,303.55,184.3,VERIFIED & OPERATIONAL
+Random Forest,models/random_forest/aqi_model.joblib,models/random_forest/pollutant_model.joblib,305.62,182.23,VERIFIED & OPERATIONAL
+XGBoost,models/xgboost/aqi_model.joblib (and .json),models/xgboost/pollutant_model.joblib,306.28,184.65,VERIFIED & OPERATIONAL
+Artificial Neural Network,models/ann/aqi_model.keras,models/ann/pollutant_model.keras,299.3,173.9,VERIFIED & OPERATIONAL
